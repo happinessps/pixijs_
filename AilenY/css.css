@@ -1,0 +1,49 @@
+body, h1{
+    margin: 0;
+    font-size: medium;
+    text-align: center; 
+}
+header{ 
+    position: fixed; 
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    height: 2rem; 
+    line-height: 2rem; 
+    text-align: center; 
+}
+  @media (min-width: 600px) {
+    body, h1{
+        margin: 0;
+        font-size: x-large;
+        text-align: center; 
+    }
+    header{ 
+        position: fixed; 
+        left: 0; 
+        right: 0; 
+        top: 0; 
+        height: 3rem; 
+        background:lightgray; 
+        line-height: 3rem; 
+        text-align: center; 
+    }
+  }
+  
+  @media (min-width: 800px) {
+    body, h1{
+        margin: 0;
+        font-size: medium;
+        
+    }
+    header{ 
+        position: fixed; 
+        left: 0; 
+        right: 0; 
+        top: 0; 
+        height: 2rem; 
+        background:lightgray; 
+        line-height: 2rem; 
+        
+  }
+}
