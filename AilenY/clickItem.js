@@ -99,6 +99,5 @@ function setup(loader, resources) {
         app.stage.addChild(item);
         countUP();
     }
-    resize();
 }
 
