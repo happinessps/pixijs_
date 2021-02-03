@@ -1,26 +1,25 @@
-@media (max-width: 599px){
-    body, h1{
-        margin: 0;
-        font-size: medium;
-    }
-    header{ 
-        position: fixed; 
-        left: 0; 
-        right: 0; 
-        top: 0; 
-        height: 3rem; 
-        background:lightgray; 
-        line-height: 3rem; 
-        text-align: center; 
-    }
+body, h1{
+    margin: 0;
+    font-size: medium;
 }
+header{ 
+/*     position: fixed;  */
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    height: 3rem; 
+    background:lightgray; 
+    line-height: 3rem; 
+    text-align: center; 
+}
+
 @media (min-width: 600px) {
     body, h1{
         margin: 0;
-        font-size: x-large;
+        font-size: large;
     }
     header{ 
-        position: fixed; 
+/*         position: fixed;  */
         left: 0; 
         right: 0; 
         top: 0; 
@@ -34,11 +33,11 @@
 @media (min-width: 800px) {
     body, h1{
         margin: 0;
-        font-size: medium;
+        font-size: x-large;
 
     }
     header{ 
-        position: fixed; 
+/*         position: fixed;  */
         left: 0; 
         right: 0; 
         top: 0; 
