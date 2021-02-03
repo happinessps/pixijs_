@@ -1,7 +1,6 @@
 body, h1{
     margin: 0;
     font-size: medium;
-    text-align: center; 
 }
 header{ 
     position: fixed; 
@@ -17,7 +16,6 @@ header{
     body, h1{
         margin: 0;
         font-size: x-large;
-        text-align: center; 
     }
     header{ 
         position: fixed; 
@@ -35,7 +33,6 @@ header{
     body, h1{
         margin: 0;
         font-size: medium;
-        
     }
     header{ 
         position: fixed; 
