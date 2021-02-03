@@ -9,6 +9,7 @@ header{
     right: 0; 
     top: 0; 
     height: 2rem; 
+    background:lightgray;
     line-height: 2rem; 
     text-align: center; 
 }
